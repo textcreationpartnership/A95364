@@ -1,0 +1,218 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A briefe treatise concerning the chiefe dispute of this time about tithes. Wherein is shewne, 1. That the tenth or tithes are the clergies right, by the lawes of God, of nature, and of this nation. 2. That no person ought to pay above the tenth part of any rate or charge, imposed upon the whole parish, for his parsonage, tithe and gleabe also. By Bevill Turmiger, Gent.</title>
+            <author>Turmiger, Bevill.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95364</idno>
+            <idno type="STC">Wing T3263</idno>
+            <idno type="STC">Thomason E712_13</idno>
+            <idno type="STC">ESTC R207142</idno>
+            <idno type="EEBO-CITATION">99866213</idno>
+            <idno type="PROQUEST">99866213</idno>
+            <idno type="VID">118478</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118478)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 110:E712[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A briefe treatise concerning the chiefe dispute of this time about tithes. Wherein is shewne, 1. That the tenth or tithes are the clergies right, by the lawes of God, of nature, and of this nation. 2. That no person ought to pay above the tenth part of any rate or charge, imposed upon the whole parish, for his parsonage, tithe and gleabe also. By Bevill Turmiger, Gent.</title>
+                  <author>Turmiger, Bevill.</author>
+               </titleStmt>
+               <extent>[4], 11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Lowndes, at the White-Lyon in S. Paul's Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 8.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Tithes --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118478:1" rendition="simple:additions"/>
+            <p>A BRIEFE TREATISE Concerning the chiefe diſpute of this time about TITHES.</p>
+            <p>
+               <hi>Wherein is ſhewne,</hi>
+               <list>
+                  <item>1. That the Tenth or Tithes are the Cler<g ref="char:EOLhyphen"/>gies right, by the <hi>Lawes of God,</hi> of <hi>Na<g ref="char:EOLhyphen"/>ture,</hi> and of this <hi>Nation.</hi>
+                  </item>
+                  <item>2. That no perſon ought to pay above the tenth part of any Rate or Charge, im<g ref="char:EOLhyphen"/>poſed upon the whole Pariſh, for his Parſonage, Tithe and Gleabe alſo.</item>
+               </list>
+            </p>
+            <p>By <hi>Bevill Turmiger,</hi> Gent.</p>
+            <q>
+               <bibl>
+                  <hi>MAL. 3.8, 9, 10.</hi>
+               </bibl>
+               <p>Will a man rob God? yet ye have robbed me: But ye ſay, Wherein have we robbed thee? In Tithes and Offerings. Ye are curſed with a curſe; for ye have robbed me, even this whole Nation. Bring ye all the Tithes into the Store-houſe, that there may be meate in mine houſe, and prove me now herewith, ſaith the Lord of Hoſts, if I will not open you the windows of Heaven, and powre you out a bleſſing, that there ſhall not be roome enough to receive it.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for R. LOWNDES, at the White-Lyon in S. <hi>Paul</hi>'s Church-yard, 1653.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:118478:2"/>
+            <pb facs="tcp:118478:2"/>
+            <p>
+               <seg rend="decorInit">T</seg>He maine buſineſſe now in agi<g ref="char:EOLhyphen"/>tation at <hi>VVeſtminſter,</hi> is, concerning the taking away the Tithes from the Clergy, and is the ſubject of every mans diſcourſe, where<g ref="char:EOLhyphen"/>in two opinions are moſt eagerly main<g ref="char:EOLhyphen"/>tained; the firſt (and moſt violent) is, <hi>That Tithes ought not at all to be paid to the Clergy.</hi> The ſecond is, <hi>That Tithes or tenth ought to be paid, but not as now they are in moſt Pariſhes, which chiefly conſiſts of Tillage, where the Parſon receiveth a ſixth part in ſtead of his tenth, and yet many times payeth but the tenth part of the Contribution;</hi> To ſatisfie both which, I thought it not a<g ref="char:EOLhyphen"/>miſſe to publiſh theſe Collections, which for<g ref="char:EOLhyphen"/>merly I gathered for my owne private ſa<g ref="char:EOLhyphen"/>tisfaction;
+<pb facs="tcp:118478:3"/>by which it will appeare againſt the firſt ſort of people, that Tithes are due to the Clergy by the Lawes of <hi>God,</hi> of <hi>Nature,</hi> and of this <hi>Nation;</hi> and againſt the ſecond ſort, that no Parſon receiveth above the tenth part of the fruits of the Pariſh, and that he ought not to pay a<g ref="char:EOLhyphen"/>bove the tenth part of any Rates or Char<g ref="char:EOLhyphen"/>ges impoſed upon the Pariſh, for his Tithe and Gleabe alſo.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:118478:3"/>
+            <head>The Clergies right to Tithes, by the Law of God, of Na<g ref="char:EOLhyphen"/>ture, and this Nation, and that no Parſon ought to pay above the tenth part of any Rate or Charge, impoſed up<g ref="char:EOLhyphen"/>on the Pariſh for his Tithe and Glebe.</head>
+            <p>TITHE in old Engliſh or Saxon, ſignifieth to cull or chooſe out; and becauſe the Prieſt might cull or chooſe his tenth out of the other nine parts, the word <hi>Tithe</hi> came to be uſed for the tenth, for <hi>Decima</hi> or <hi>Decimae,</hi> is the Tithe or tenth of that we lawfully poſſeſſe, rendered by us to God by way of thankfulneſs for the bleſſings beſtowed on us, which is due by the <hi>Law of God,</hi> of <hi>Nature,</hi> and of this <hi>Nation.</hi>
+            </p>
+            <p>The Law of God is conteined in the Old and New Teſta<g ref="char:EOLhyphen"/>ments; in the Old Teſtament Tithes are fully and often com<g ref="char:EOLhyphen"/>manded (as all acknowledge) but ſome pretend that it obligeth not us, ſince there is no expreſſe place injoyning the payment of them in the New: Yet the ſame Argument is of the ſame force againſt keeping the Lords day, Baptizing of Infants, or womens receiving of the Sacrament of the Lords Supper; and ſufficient it is, that they are plainely commanded in the Old, and never fulfilled, abrogated or aboliſhed in the New; and if the letter of the Leviticall Law, be fulfilled by <hi>Conſummatum eſt,</hi> yet the Spirituall and Morall ſence remaineth ſtill, and that in three maine particulars.
+<list>
+                  <item>1. <hi>Piety towards God,</hi> as being for his Worſhip and Service.</item>
+                  <item>2. <hi>Gratitude,</hi> as being <hi>Sacri<g ref="char:EOLhyphen"/>ficium laudis,</hi> an offering of thankes for his benefits received.</item>
+                  <item>3. <hi>Juſtice</hi> being appointed by him for the juſt remuneration, and wages of his Miniſters, 1 Cor. 9.13, 14.</item>
+               </list>
+               <hi>Doe you not know that they which waite at the Altar, are partakers with the Altar? ſo alſo hath the Lord ordained, that they which preach the Goſpell
+<pb n="2" facs="tcp:118478:4"/>ſhould live of the Gospell:</hi> We owe to God our great Landlord, both Rent and Service, our Rent is the tenth of our increaſe, Mal. 3.8, 9, 10, &amp;c. <hi>Will a man rob God? yet ye have robbed me, but ye ſay, wherein have we robbed thee? in Tithes and Offerings: ye are curſed with a curſe, for ye have robbed me, even this whole Nation: bring all the Tithes into the ſtore-houſe, that there may be meate in mine houſe, and try me if I will not open the windows of Heaven,</hi> &amp;c. Our ſervice muſt be performed every ſeventh day, 7. is the number of Evangelicall Sanctification, 10. the number of Legall Juſtification: as Faith is nothing without Workes, ſo neither the Sabbath without Tithes; for they who adminiſter to us the ſpirituall bleſſings of the Sabbath, muſt receive from us the temporall bleſſings of Tithes, 1 <hi>Cor.</hi> 9.11. if we ſow unto you Spirituall things, is it a great thing if we reape your Temporall things? for by giving God the tenth part, we put the other nine parts in his protection: Much is ſaid of the Figure and Number 10. by the Antient (as who pleaſe may reade in Sir <hi>Henry Spelman</hi>) the <hi>Romans</hi> ſo admired the ſecret vertue of the number 10. that they canonized it a<g ref="char:EOLhyphen"/>mongſt their Gods by the name of <hi>Decima,</hi> the letter X. ſig<g ref="char:EOLhyphen"/>nifieth commonly the number 10. and the Tithe, and Chriſt, and was and is commonly written, <hi>X<hi rend="sup">s</hi> X<hi rend="sup">i</hi> X<hi rend="sup">um</hi>, Chriſtus, Chriſti, Chriſtum,</hi> and <hi>X<hi rend="sup">s</hi> X<hi rend="sup">i</hi> X<hi rend="sup">um</hi>, Decimus, Decimi, Deci<g ref="char:EOLhyphen"/>mum.</hi>
+            </p>
+            <lg>
+               <l>
+                  <hi>X. Exprimit antiquis, haec Chriſtum litera ſcriptis,</hi>
+               </l>
+               <l>
+                  <hi>Exprimit, &amp; partem quam petit ille ſacram.</hi>
+               </l>
+               <l>
+                  <hi>Ergo citus, Chriſti qua ſunt dato munera Chriſto,</hi>
+               </l>
+               <l>Caeſaris <hi>accipiat</hi> Caeſar, <hi>uterque ſuum.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>The X. of old expreſt Chriſts holy name,</hi>
+               </l>
+               <l>
+                  <hi>And ſo the holy tenth which he doth claime.</hi>
+               </l>
+               <l>
+                  <hi>Give then to Chriſt, whats Chriſts without delay,</hi>
+               </l>
+               <l>
+                  <hi>Give</hi> Ceſar Ceſars <hi>due, and both their pay.</hi>
+               </l>
+            </lg>
+            <p>And as for the Practique, the payment of Tithes by all pious men ever ſince there was a Church, Jewiſh or Chriſtian, is un<g ref="char:EOLhyphen"/>deniable, 1 Cor. 11.16. <hi>but if any man ſeem contentious,</hi> let him
+<pb n="3" facs="tcp:118478:4"/>know, that <hi>we have no ſuch cuſtome, neither the Churches of God.</hi> It ſeemes in Saint <hi>Pauls</hi> time, the cuſtomes of the Chur<g ref="char:EOLhyphen"/>ches were ſufficient to ſtop the mouthes of any Gaine-ſayers, the cuſtome of paying Tithes, was not onely by, but before the eſtabliſhment of the Jewiſh Church or Common-wealth; for <hi>Abraham</hi> paid Tithes to <hi>Melchiſedeck,</hi> who is held to be <hi>Sem, Noahs</hi> Son (and it may well be, for he lived 600. yeares, whereof 502. were after the Flood, and 209. of them with <hi>Abraham</hi>) ſo as to thoſe of the new World, he might well ſeeme without Father or Mother, being borne 100. yeares be<g ref="char:EOLhyphen"/>fore the Flood. So <hi>Jacob</hi> and <hi>Levi</hi> himſelfe in the loynes of <hi>Abraham,</hi> paid Tythes 400. yeares before he was borne, and although after ſome robbed God of them, <hi>Mal.</hi> 3.13. and others ſacrilegiouſly amongſt the Chriſtians, yet was the pay<g ref="char:EOLhyphen"/>ment of them never abrogated by any Law, but confirmed by all the Fathers and good Chriſtians, and never gaine-ſayed by any honeſt ſingle Author, till our unconſcionable dayes.</p>
+            <p n="2">2. What God taught his people the Jewes, and Chriſtians by his Word, that he taught the Gentiles by the Law of Nature: Aug: <hi>Quis ſcribit in cordibus hominum naturalem legem niſi ipſe Deus,</hi> that is called the Law of Nature, which is writ by God in the hearts of all men by the pen of Nature; grounding it ſelfe upon ſuch manifeſt rules of Reaſon, that all the Nations of the World perceive them to be juſt, and know they ought to practice them. As the Philoſophers call this <hi>the Law of Na<g ref="char:EOLhyphen"/>ture,</hi> ſo the Logicians and Orators call it, <hi>the Law of Reaſon,</hi> the Civilians, <hi>the Law of Nations,</hi> and Divines, <hi>the Morall Law:</hi> All Nations, ſaith <hi>Lactantius,</hi> agree in this, that there is a God, that that God ought to be ſerved, and that thoſe who are ſet aſide to performe that particular ſervice, ought to be maintained, which generally hath been performed by the payment of Tithes: The firſt Tithe that we reade of paid by the Gentiles, was that of <hi>Dyoniſius,</hi> commonly called <hi>Bacchus,</hi> after his Conqueſt over the <hi>Indians. Magno Jovi,</hi> 600. years after <hi>Abraham</hi> paid Tythes to <hi>Melchiſedeck,</hi> which is as anci<g ref="char:EOLhyphen"/>ent as we have any Hiſtory of the Gentiles; and before <hi>Moſes</hi> his ſetling the Common-wealth of the Jewes, ſo the <hi>Sicilians, Athenians, Arabians, Aethiopians,</hi> and (as <hi>Paulus Diaconus</hi>
+               <pb n="4" facs="tcp:118478:5"/>ſaith) all the Gentiles, <hi>decimas veteres diis ſuis offerbaut,</hi> and <hi>Diodorus Siculus,</hi> who lived with <hi>Julius Ceſar,</hi> ſaith it was the conſtant courſe of all people, and that not onely of the fruits of the Earth, but of that alſo which they got by labour and hazard of their lives; for he that giveth all, with have ſome acknowledgement of all, and from all, even from the Mi<g ref="char:EOLhyphen"/>litary men, out of the ſpoile they got by Warre: So <hi>Abraham,</hi> ſo <hi>Bacchus,</hi> ſo <hi>Cyrus,</hi> ſo <hi>Furius Camillus,</hi> ſo <hi>Alexander</hi> the great, and ſo doe the <hi>Turkes</hi> to this day. See <hi>Herodotus</hi> in <hi>Clio,</hi> fol 36. <hi>Livi.</hi> lib. 5. <hi>Plin.</hi> lib. 12. cap. 14. <hi>Diodorus Si<g ref="char:EOLhyphen"/>culus,</hi> &amp;c.</p>
+            <p n="3">3. Concerning the Law of this Nation, if it was not plaine and manifeſt, few I doubt in theſe times would pay them, many accounting them a great grievance and oppreſſion, daily Pe<g ref="char:EOLhyphen"/>titioning againſt them, and although enough is ſaid already to ſatisfie any honeſt rationall man, yet to ſhew how unreaſon<g ref="char:EOLhyphen"/>able their demands are, and how unjuſt it would be to take them away, or otherwayes employ them: I intend to ſhew how they firſt came to the Church in this Nation, and how by Law to be eſtabliſhed: as <hi>Moſes</hi> the temporall ruler of the people of <hi>Iſrael</hi> was counted amongſt the Prieſts, <hi>Pſal.</hi> 99.6. ſo the Law of this Land accounted the King, <hi>Perſonam mix<g ref="char:EOLhyphen"/>tam, medium &amp; commune quiddam inter Sacerdotes &amp; Laicos,</hi> and hath aſſign'd unto him a politick body compoſed of Eccle<g ref="char:EOLhyphen"/>ſiaſticall and Civill Subjects, <hi>Cooke de Jur: Eccleſ.</hi> and as he was girt (at his Coronation) with a Sword by the Lay-Peers, ſo was he Anointed by the Biſhops with Oyle, having jurisdi<g ref="char:EOLhyphen"/>ction ſeverall over all, as well Eccleſiaſticall as Civill, as head of the Common-wealth, ſo of the Church, being the ſupreame Biſhop over all Biſhops in <hi>England,</hi> whence his ſtile was, <hi>Vi<g ref="char:EOLhyphen"/>carius ſummi Regis,</hi> not <hi>ſummi Pontificis:</hi> This anoynting with Oyle was not common to all Chriſtian Kings, for in King <hi>Henry</hi> the ſeconds time, of 24. Chriſtian Kings in number, onely 4. of them beſides the Emperour were anoynted and Crowned, namely the Kings of <hi>England, France, Jeruſalem</hi> and <hi>Sicily:</hi> Famours <hi>Alfred</hi> or <hi>Allured</hi> about the yeare 860. was anoynted and Crowned at <hi>Rome</hi> by <hi>Leo</hi> 4. ſince which his ſucceſſors have been ever anoynted and Crowned, and thereby
+<pb n="5" facs="tcp:118478:5"/>with <hi>David, Jehoſhaphat,</hi> and <hi>Hezekias,</hi> made capable of ſpi<g ref="char:EOLhyphen"/>rituall Jurisdiction, ſo alſo the Kings of <hi>France</hi> from <hi>Clodovius,</hi> ſo alſo the Kings of <hi>Jeruſalem</hi> and <hi>Sicily,</hi> the right of which two Kingdomes now reſideth in the King of <hi>Spaine,</hi> who be<g ref="char:EOLhyphen"/>fore he had their rights, was neither anointed nor Crowned; and for <hi>France,</hi> that right was in the King of <hi>England,</hi> though <hi>de facto,</hi> another hath it in poſſeſſion; the King of <hi>Spain</hi> alſo holds <hi>in feudo,</hi> of the Sea of <hi>Rome, Jeruſalem</hi> and <hi>Sicily,</hi> ſo that in this point of anoynting and ſpirituall jurisdiction, the Kings of <hi>England</hi> have been peereleſſe: and for their Tem<g ref="char:EOLhyphen"/>porall power alſo, had more to ſay for themſelves, then any King in Chriſtendome, for <hi>Edward</hi> Son to <hi>Edmon Ironſide,</hi> (ſurnamed the <hi>Outlaw,</hi> becauſe he was baniſhed all the raignes of <hi>Canutus</hi> and his Sons the <hi>Danes</hi>) yet recalled when <hi>Edward</hi> the <hi>Confeſſor</hi> yonger brother to <hi>Edmon Ironſide</hi> obtained the Crowne; he Marryed <hi>Agatha,</hi> Daughter to <hi>Hen.</hi> 2. Empe<g ref="char:EOLhyphen"/>rour, by whom he had <hi>Edgar Etheling</hi> confirmed Heire, by his great Unkle <hi>Edward Confeſſor,</hi> but deprived by <hi>Herold</hi> his protector; his ſole Heire <hi>Margaret</hi> was Marryed to <hi>Malcom,</hi> 3. King of <hi>Scotland,</hi> from and by whom, in a lineall deſcent, King <hi>James</hi> in his perſon united the <hi>Britains, Saxons, Engliſh, Normans,</hi> French and Scottiſh Crownes in one, though now poſſeſt of none; by whom and whoſe juſt power the Tithes came firſt to be legally inveſted in the Church, for though they were ever due by the Law of <hi>God,</hi> and <hi>Nature,</hi> and paid in <hi>England,</hi> as ſoone as Chriſtianity was eſtabliſhed here: for <hi>Anne</hi> 596. they were preached by our Concerſioner <hi>Augu<g ref="char:EOLhyphen"/>ſtine,</hi> and granted by King <hi>Ethelbert, Leges Confeſſoris con<g ref="char:EOLhyphen"/>ceſſae à Rege &amp; Baronibus &amp; Populo</hi> (whence ſome would prove the antiquity of Parliament) yet he being King of <hi>Kent</hi> onely, doth not include all the reſt of <hi>England;</hi> but as <hi>Cooke</hi> in <hi>Litleton, lib.</hi> 1. <hi>cap.</hi> 9. <hi>Sect.</hi> 73. It appeares by the Law, that the firſt Kings of <hi>England</hi> had all the Lands in Demeſne, &amp;c. now the firſt King of all <hi>England</hi> was <hi>Egbert,</hi> who reduced the <hi>Heptarchy</hi> into his ſole Monarchy, and his Son <hi>Ethelwoolfe</hi> the ſecond Monarch of <hi>England,</hi> conferred the Tithes of all this Kingdome with the Tenth part of all the Land in <hi>England</hi> for Glebe upon the Church; the Charter it ſelfe is extant in
+<pb n="6" facs="tcp:118478:6"/>
+               <hi>Ingulphus, Math:</hi> of <hi>Weſtminſter,</hi> &amp;c. The title of it is thus, <hi>Quomodo Ethelwolfus Rex dedit decimam partem regni ſui Ec<g ref="char:EOLhyphen"/>cleſiis,</hi> and concludes thus, <hi>Qui augere voluerit noſtram dona<g ref="char:EOLhyphen"/>tionem, augeat omnipotens deus dies ejus proſperos, ſiquis vero mutare vel minuere praeſumpſerit, noſcat ſe ad tribunal Chriſti rationem redditurum;</hi> reſerving the chiefe Mannors and Roy<g ref="char:EOLhyphen"/>alties to himſelfe, he gave the leſſer Baronies and Lands to his Nobles and others, for defence of the Kingdome, reſerving to himſelfe and his ſucceſſors, the Homages, Rents and Services due from them, with the tenths to the Church, ſo that <hi>Anno Dom.</hi> 855. ſaith <hi>Ingulphus, Ethelwolphus decimam omnis poſſeſſi<g ref="char:EOLhyphen"/>onis ſuae, &amp; totius regni ſui partem deo immolavit,</hi> this was con<g ref="char:EOLhyphen"/>firmed by King <hi>Ethelſtone, An.</hi> 930. and after by <hi>Canutus</hi> the Son of <hi>Sweno,</hi> the Dane, as ſoon as he was ſetled in the Go<g ref="char:EOLhyphen"/>vernment of this Kingdome, and this we reade in our beſt moſt ancient and authentique ſtories of <hi>Ingulphus, Math:</hi> of <hi>Weſt<g ref="char:EOLhyphen"/>minſter, Rog: Hoveden, Hen: Huntington,</hi> &amp;c. injoyning the true payment of them upon the paine of Excommunication, beſides the loſſe of the other nine parts, and ſet downe when and how every Tithe of Corne, Hay, Woole, Lambe, &amp;c. ſhould be payed: and <hi>Edward</hi> the Confeſſor, 1042. if they had but one Calfe or two, then to pay for every of them a penny, and to this price is the Parſon generally holden to this day, though ten of our pence now is not worth one of them, and ſo of Bees, Wood, Water, Mils, Parks, Fiſhings, Warrans, Negotiati<g ref="char:EOLhyphen"/>ons, &amp;c. and the Law ſaith of all things that the Lord giveth, the Tenth: After <hi>William</hi> the Norman Conquering this King<g ref="char:EOLhyphen"/>dome, 1066. as <hi>Bacon, Cooke,</hi> and all our Chronicles affirme, led by the example of the former Conquerours, as well <hi>Saxons</hi> and <hi>Danes</hi> ſeized upon all the Lands in <hi>England</hi> (except the Church Lands and ſome in <hi>Kent</hi>) cauſed the Kingdome to be admeaſured, reſerving the chiefe Mannors and Royalties, with the Homages, Rents and Services to himſelfe, and his ſucceſ<g ref="char:EOLhyphen"/>ſors, and the Eccleſiaſticall Lands, with the Tithe of all other Lands to the Church, he parted for the defence of the King<g ref="char:EOLhyphen"/>dome, with all the reſt to his Nobles, Servants and Souldiers; and the Lands thus charged have beene tranſmitted and paſſed
+<pb n="7" facs="tcp:118478:6"/>over from one to another, untill they came unto the poſſeſſi<g ref="char:EOLhyphen"/>on of the preſent owners, who have no other right to their Lands, but by tenure from the King, performing their injoyn<g ref="char:EOLhyphen"/>ed ſervices to him, and paying the Tenth or Tithes to the Church. This was confirmed by <hi>Magna Charta,</hi> ninth of <hi>Hen:</hi> 3. and 30. ſeverall Parliaments ſucceſſively, and Biſhops appointed to curſe thoſe who ſhould dare to inact any thing a<g ref="char:EOLhyphen"/>gainſt it, and all thoſe people who would obey any ſuch Sta<g ref="char:EOLhyphen"/>tutes being enacted, and in the 31. of <hi>Edward</hi> 3. <hi>May</hi> 13. <hi>Boniface Archbiſhop</hi> of <hi>Canterbury,</hi> and five other Biſhops ſo<g ref="char:EOLhyphen"/>lemnly denounced the curſe mentioned in the 25. of <hi>Edw:</hi> 1. in <hi>Weſtminſter</hi> Hall, the King with his Peers being preſent a<g ref="char:EOLhyphen"/>gainſt all them which ſhould willingly or malitiouſly deprive the Church of her right. Secondly, againſt all thoſe who by any act or device infringe the liberties of the Church or Kingdome, granted by <hi>Magna Charta, &amp; de fore<g ref="char:EOLhyphen"/>ſta.</hi> So that whatſoever right the owner hath to the nine parts, either of fee ſimple, Leaſe or Copy, yet hath he no pretence at all to the Tithe or Tenth, either by grant or purchaſe: by grant he hath no right to the other nine, but upon condition of payment of the Tenth to the Church, and as for the Purchaſe it could be no more then was in the Grant, wherein the Tenth was reſerved to the Church; neither did the Purchaſer buy any more then nine parts onely, for ſuppoſe a man purchaſe 100 l.<hi>per an.</hi> which at 20. yeares purchaſe, it will coſt 2000 l. but if this 100 l.<hi>per annum</hi> had been Tithe free, it would have been worth 120 l.<hi>per annum,</hi> which at 20. yeares purchaſe would have coſt 2400 l. ſo that he buying but nine parts of the Land, hath 400 l. abated him in lieu of the Tenth. Neither doth the Tithe coſt the Farmer any labour or charge at all, for ſuppoſe the Farmer pay to the Landlord 100 l.<hi>per ann.</hi> if it were Tithe free his Landlord would make him pay 120 l.<hi>per annum</hi> for it, ſo that he hath 20 l.<hi>per annum</hi> abated in his Rent, in regard of his payment of Tithes, which fully recompenceth him for his labour and coſt, up<g ref="char:EOLhyphen"/>on the tenth<g ref="char:punc">▪</g> part of the Land; in effect then no man in <hi>England</hi> payed any Tithes to the Parſon, but the King
+<pb n="8" facs="tcp:118478:7"/>onely or his ſucceſſors, in acknowledgement whereof, eve<g ref="char:EOLhyphen"/>ry Parſon payeth yearely his Tenths to the King and his ſucceſſors. Seeing then the Parſon hath as good right to the tenth part as the poſſeſſors to the other nine parts, and he no wayes obliged to the Landlord or Tenant for his tenth part, nor either of them indamaged by it, they ought as well to pay nine parts of all rates and charges, for the nine parts which they poſſeſſe, as he the tenth part for the Tithe which he poſſeſſeth, as may more manifeſtly appeare by theſe reaſons,</p>
+            <p n="1">1. Every Parſon ought to be rated in the ſame man<g ref="char:EOLhyphen"/>ner with the Pariſhioners: If the rate be according to goods, then there is reaſon the Parſon ſhould pay (if there be no cuſtomes) the tenth part of the Rate, receiving the tenth part of the Commodities; and if the Rate be accor<g ref="char:EOLhyphen"/>ding to Lands, then the Parſon is to be rated with the reſt of the Pariſh according to the Glebe Land, proportionable to their Lands, but he cannot be rated for his Goods or Tithes, and his Gleabe Land too, unleſſe the Pariſhioners be rated for their goods or other nine parts, and their lands beſides. If it be objected, that then the Parſon payes not proportionable to the Pariſhioners, that they pay either for their Lands or their goods, or commodities which grow on them; whereas the Parſon neither payes for his Glebe Lands, nor the commodities which grow on them; I anſwer,</p>
+            <list>
+               <item>1. That if the Parſon be rated the tenth part, by reaſon that he receives the Tenth or Tithe of the fruits, then the Pariſhioners ought to pay the other nine parts of the rate, becauſe they receive the other nine parts of the commodi<g ref="char:EOLhyphen"/>ties: So that they paying nine parts of the rate, and the Parſon the tenth, the whole rate is payed, and there re<g ref="char:EOLhyphen"/>maines nothing more to be payed, either for his Gleabe or their Lands.</item>
+               <item>2. In moſt Pariſhes there are cuſtomes for Cows, weaned Calves, &amp;c. whereof the Parſon receives not the thirtieth part, as <hi>Ob.</hi> for a weaned Calfe or Colt; he ought not then of thoſe things to pay the tenth part, whereof he receives not the 30. part.</item>
+               <pb n="9" facs="tcp:118478:7"/>
+               <item>3. No Parſon receives the tenth of mens perſonall Eſtates, though perſonall Tithes are due, both by the Law of God and Man, as appeares by the Preface of the Statute for perſo<g ref="char:EOLhyphen"/>nall Tithes.</item>
+               <item>4. No Parſon receives the tenth part of mens perſonall Eſtates, Annuities, Moneys put out to uſe, or otherwiſe im<g ref="char:EOLhyphen"/>ployed in buying and ſelling, for Timber, Horſes, Swine and other goods which are rateable, and therefore ought not to pay the tenth of that, whereof he receives no benefit at all. Some object that the Parſon receives the ſixth part of the Pariſh, but if they account this according to the Rent of their Farmes, then they are to conſider that the Tenants livelyhood, as Meate, Drinke and Cloathes, is to be accounted into the valew of the Lands beſides the Rent, which if the Parſons livelyhood be ſo deducted, there can<g ref="char:EOLhyphen"/>not remaine to him the tenth part of the Rent of the Pa<g ref="char:EOLhyphen"/>riſh: and if they ſpeake of goods or Tithe of the com<g ref="char:EOLhyphen"/>modities which he receives, then by reaſon of the ſeverall cuſtomes, no Parſon receives ſo much as the tenth part, and therefore ought not to pay above the tenth part of the rate of the whole Pariſh: This will appeare more plaine if we conſider
+<list>
+                     <item>1. That the whole Taxe or Rate is laid upon the whole Pariſh, and the commodities therein, and not upon things Titheable onely, but upon untitheable alſo, as Rents, Annuities, Moneys, Goods, Timber, perſonall E<g ref="char:EOLhyphen"/>ſtates, gaine by Trade, which pay no Tithe at all, there<g ref="char:EOLhyphen"/>fore for ſo much of the Rate, as is to be paid for them, the Parſon is to be at no charge at all.</item>
+                     <item>2. If we conſider things which are Tithable but in part by reaſon of cuſtomes, as 2 d. a Cows milke, worth 3 s. 1 d. for a Garden worth a Noble: <hi>Ob:</hi> for a weaned Calfe or Colt worth 2 s. wherein he receives not the tenth part, and therefore ought not to pay the tenth part of theſe things undervalued by Cuſtomes, and the other things rateable, yet not Titheable at all, be deducted from the Parſons Taxe, and added to the Pariſh charge, we ſhall finde that if the Parſon pay the tenth of the rate, he is not recom<g ref="char:EOLhyphen"/>penced
+<pb n="10" facs="tcp:118478:8"/>by the addition of his Glebe Land taxe-free: and if any Pariſh be of the contrary opinion, I believe their Parſon will willingly pay the tenth part of the rates for his Tithe, and for his Glebe beſides; ſo that they will pay him the Tithe of all rateable commodities, and for<g ref="char:EOLhyphen"/>beare their cuſtomes in Titheable commodities. For all men know that if the Rents of any Pariſh be worth 500 l.<hi>per annum,</hi> the fruits of that Pariſh are worth at leaſt 1500 l.<hi>per ann.</hi> whereof the Parſonage Glebe and all, is not worth the tenth part, <hi>per annum.</hi> Therefore the determi<g ref="char:EOLhyphen"/>nation of the King and Counſell, in Doctor <hi>Belcanqueis</hi> Caſe, that no Parſon ſhould be rated above the tenth part of the Pariſh for Tithe and Glebe and all, was agreeable to reaſon and equity.</item>
+                  </list>
+               </item>
+            </list>
+            <p>I conclude alſo Negatively for the firſt Propoſition, <hi>viz.</hi> That no former Parliament conſiſting of King, Lords, and Commons, or future Repreſentative (as I conceive) ever had, or can have juſt power to take away the Tithes from the Clergy.</p>
+            <list>
+               <item>1. Becauſe they are due to them by the Law of God.</item>
+               <item>2. Becauſe they are theirs by the Law of Nature.</item>
+               <item>3. Becauſe the Law of the Land ſaith, <hi>Ab omnibus tra<g ref="char:EOLhyphen"/>ctari debet, quod tangit omnes,</hi> the Clergy having there no Repreſentation nor voice in the Election of any of the Re<g ref="char:EOLhyphen"/>preſentative in it, it cannot in Law or Reaſon be con<g ref="char:EOLhyphen"/>cluded by it. Laſtly, becauſe the taking away of the Cler<g ref="char:EOLhyphen"/>gies Tithes, is againſt <hi>Magna Charta,</hi> the ground of the Statute or Parliamentary Law confirmed by 36. ſucceeding Parliaments, whereby it was Enacted, that to Enact, or to obey any Act made againſt it, was to incurre the Sen<g ref="char:EOLhyphen"/>tence of Excommunication; by this great Charter, Chap<g ref="char:EOLhyphen"/>ter 1. And alſo the laſt, it was Enacted, that the Clergy or Church ſhould be free and enjoy all her Im<g ref="char:EOLhyphen"/>munities, Liberties and Rights inviolable, and alſo Ch. 29. ſaith, That no Freeman ſhall be deprived of his Freehold, but by lawfull Indictment of his Peeres according to the Law of the Land, which Law of the Land makes every Parſon a Free<g ref="char:EOLhyphen"/>holder for life admitted <hi>in perpetuum</hi> holding by <hi>Franke
+<pb n="11" facs="tcp:118478:8"/>Almoyne,</hi> the ſureſt Tenure (ſaith <hi>Littleton</hi>) becauſe God the Feoffee cannot forfeit his Right, nor the Clergy its Right, though a particular Clergy-man may: and although a Par<g ref="char:EOLhyphen"/>liament have power to impoſe a Tax of foure pence an Acre more or leſſe upon every Freeholders Lands for the Generall or Common good, yet can it not (I ſpeake <hi>de jure,</hi> for <hi>id poteſt quod jure poteſt</hi>) take an Acre from One without Legall Triall, and give it to another, nor diſpoſſeſſe any man of his Free-hold without a Crime and Triall by his Peeres. Therefore not juſtly deprive the Clergy of their Free<g ref="char:EOLhyphen"/>holds or Tithes.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
